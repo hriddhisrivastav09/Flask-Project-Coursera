@@ -1,0 +1,5 @@
+$ python3
+>>> from EmotionDetection import emotion_detector
+>>> import EmotionDetection; print(EmotionDetection)
+<module 'EmotionDetection' from '/home/claude/oaqjp-final-project-emb-ai/EmotionDetection/__init__.py'>
+joy
